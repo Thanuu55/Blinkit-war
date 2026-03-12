@@ -258,7 +258,7 @@ https://github.com/dheer31/blinkit-webapp-war
 
 # Author
 
-Dheeraj
+Thanushri
 Aspiring Java Full Stack Developer & DevOps Engineer
 
 
